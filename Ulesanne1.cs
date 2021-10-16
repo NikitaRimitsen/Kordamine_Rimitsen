@@ -32,9 +32,9 @@ namespace Kordamine_Rimitsen
                     Console.WriteLine("Pole tellitud");
                 }
             }
-            var massiv = new[] { 5, 4, 3, 2, 1 };
-
+            var massiv = new[] { 5, 0, 3, 2, 1 };
             Proverka(massiv);
+
 
             Console.ReadLine();
 

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Kordamine_Rimitsen
 {
@@ -6,9 +7,7 @@ namespace Kordamine_Rimitsen
     {
         static void Main(string[] args)
         {
-
             
-
         }
 
 
